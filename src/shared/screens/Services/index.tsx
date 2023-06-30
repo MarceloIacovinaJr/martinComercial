@@ -28,7 +28,7 @@ export default function Service() {
       title = "Servicios";
       description = "Somos especialistas en repuestos para todo tipo de tractores. Para solicitar una cotización, haga un clic en el botón cotizar y uno de nuestros especialistas lo atenderá a la brevedad.";
       textsBox = ['Algunas máquinas en las que trabajamos', 'Solo trabajamos con partes de las siguientes máquinas']
-      buttonDescription = 'Cotización'
+      buttonDescription = 'Cotizar'
       break;
   }
 
